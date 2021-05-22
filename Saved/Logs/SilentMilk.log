@@ -1037,3 +1037,5 @@ BP_Sky_Sphere
 [2021.05.22-21.38.23:591][ 27]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.22-21.38.23:591][ 27]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2021.05.22-21.38.23:591][ 27]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.05.22-22.13.36:512][557]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.05.22-22.13.36:512][557]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
